@@ -1,1 +1,2 @@
 # BookApplication
+This book management application allows users to view a list of books, including details like ID, title, version, year, and author. Users can add new books by submitting a form with the book's title, version, year, and author, which is then saved to a MongoDB database. Once a book is added, the homepage automatically refreshes to display the updated list of books. The application primarily supports the basic Create and Read operations, enabling the addition of new books and the display of the current book collection.
